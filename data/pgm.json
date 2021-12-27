@@ -1,0 +1,140 @@
+
+{
+    "users": [
+        {
+            "id" : "0",
+            "name" : "Promise",
+            "lastname" : "Vicimpa", 
+            "email" : "promise@docs.com",
+            "thumbnail" : "../media/images/Promise.png",
+            "lijfspreuk" : "28",
+            "portfolio" : [{
+                "GitHub gebruikersnaam": "vicimpa" ,
+                "LinkedIn gebruikersnaam" : "#"
+            }],
+            "isStudent" : true,
+            "geboortedatum" : 13051992
+        },
+
+        {
+            "id" : "1",
+            "name" : "Nikita",
+            "lastname" : "Dym", 
+            "email" : "dymovich@mail.ru",
+            "thumbnail" : "../media/images/foto.png",
+            "lijfspreuk" : "22",
+            "portfolio" : [{
+                "GitHub gebruikersnaam": "niki" ,
+                "LinkedIn gebruikersnaam" : "#"
+            }],
+            "isStudent" : false,
+            "geboortedatum" : 18052003
+        },
+
+        {
+            "id" : "2",
+            "name" : "Andrey",
+            "lastname" : "Markelov", 
+            "email" : "#",
+            "thumbnail" : "../media/images/Andrey.png",
+            "lijfspreuk" : "13",
+            "portfolio" : [{
+                "GitHub gebruikersnaam": "Andrey" ,
+                "LinkedIn gebruikersnaam" : "#"
+            }],
+            "isStudent" : false,
+            "geboortedatum" : 18072002
+        },
+
+        {
+            "id" : "3",
+            "name" : "Adriaan",
+            "lastname" : "Glibert", 
+            "email" : "#",
+            "thumbnail" : "../media/images/Adriaan.png",
+            "lijfspreuk" : "",
+            "portfolio" : [{
+                "GitHub gebruikersnaam": "adriaanglibert" ,
+                "LinkedIn gebruikersnaam" : "#"
+            }],
+            "isStudent" : true,
+            "geboortedatum" : 16031999
+        },
+
+        {
+            "id" : "4",
+            "name" : "Elias",
+            "lastname" : "EliasDevis", 
+            "email" : "EliasDevis@users.noreply.github.com",
+            "thumbnail" : "../media/images/Eliez.png",
+            "lijfspreuk" : "18",
+            "portfolio" : [{
+                "GitHub gebruikersnaam": "Elias" ,
+                "LinkedIn gebruikersnaam" : "#"
+            }],
+            "isStudent" : false,
+            "geboortedatum" : 16122003
+        },
+
+        {
+            "id" : "5",
+            "name" : "Axel",
+            "lastname" : "Kamarov", 
+            "email" : "AlexGitHub-1@users.noreply.github.com ",
+            "thumbnail" : "../media/images/Axel.png",
+            "lijfspreuk" : "21",
+            "portfolio" : [{
+                "GitHub gebruikersnaam": "" ,
+                "LinkedIn gebruikersnaam" : ""
+            }],
+            "isStudent" : false,
+            "geboortedatum" : 15082006
+        },
+
+        {
+            "id" : "6",
+            "name" : "Chalonoy",
+            "lastname" : "Maloveck", 
+            "email" : "vbtgyvbtyghb@mail.com",
+            "thumbnail" : "../media/images/Chalonoy.png",
+            "lijfspreuk" : "28",
+            "portfolio" : [{
+                "GitHub gebruikersnaam": "chalanoy" ,
+                "LinkedIn gebruikersnaam" : "#"
+            }],
+            "isStudent" : false,
+            "geboortedatum" : 24061993
+        },
+
+        {
+            "id" : "7",
+            "name" : "Claudine  ",
+            "lastname" : "de Kesel", 
+            "email" : "#",
+            "thumbnail" : "../media/images/Claudie.png",
+            "lijfspreuk" : "21",
+            "portfolio" : [{
+                "GitHub gebruikersnaam": "pgm-claudeke" ,
+                "LinkedIn gebruikersnaam" : "#"
+            }],
+            "isStudent" : true,
+            "geboortedatum" : 16032000
+        },
+        
+        {
+            "id" : "8",
+            "name" : "Gerald",
+            "lastname" : "#", 
+            "email" : "#",
+            "thumbnail" : "../media/images/gera.png",
+            "lijfspreuk" : "19",
+            "portfolio" : [{
+                "GitHub gebruikersnaam": "Geragy" ,
+                "LinkedIn gebruikersnaam" : "#"
+            }],
+            "isStudent" : true,
+            "geboortedatum" : 12062002
+        }
+    ]
+
+}
